@@ -1,14 +1,12 @@
-# My Command Line Tool
+# LOL chrome插件
 
 
 ## 介绍
-写了很多项目，希望能有一个列表清晰的展示出来各个项目的简短描述，以及有多少行代码，替代『ls -a』命令
-![](ScreenShot.jpg)
+用于在chrome上方便的查看英雄联盟的相关资讯和比赛信息。
+![](images/ScreenShot.jpg)
 
-## 安装及使用
-```
-python3 setup.py install
-```
-git clone以后，在文件夹内使用以上命令安装，即可在任意目录下键入p使用
+## 安装
+在chrome更多工具中打开扩展程序，打开右上角开发者模式，点击加载已解压的扩展程序。
+
 
 
